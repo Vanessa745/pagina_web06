@@ -53,9 +53,15 @@ li {
 }
 .contenido {
     text-align: center;
+    margin: 5px;
 }
 #imagen {
     width: 800px;
+    margin: 5px;
+}
+#imagen02 {
+    width: 600px;
+    margin: 5px;
 }
 #footer{
     grid-column: 1 / 4;
